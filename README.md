@@ -1,1 +1,2 @@
 # Expense-Tracker
+An Expense Tracker is basically your personal money manager-it helps you keep track of where your cash is going. You log your expenses, sort them into categories like food, rent, or fun stuff, and see if you're staying within your budget.
